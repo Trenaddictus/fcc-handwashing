@@ -9,6 +9,10 @@
   <Image />
 </div>
 
+<h3>
+  <a href="http://www.who.int/gpc/clean_hands_protection/en/">Picture Source</a>
+</h3>
+
 <style>
   h1 {
     width: fit-content;
